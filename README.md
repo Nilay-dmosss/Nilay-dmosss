@@ -10,8 +10,8 @@ My main aim is to WORK in this area AS a JUNIOR related areas and show my abilit
 
 - 🔭 I’m currently working on Web developing and data warehouse,science.
 - 🌱 I’m currently learning Python, C#, Javascript, Machine Learning,Middleware
-- 👯 I’m looking to collaborate on compatible UX-based projects with high artificial intelligence and security levels.
-- 🤔 I’m looking for supporter working places guide me and help me in this field.
+- ♣️ I’m looking to collaborate on compatible UX-based projects with high AI and security levels.
+-    I’m looking for supporter working places guide me and help me in this field.
 
 ## Skills
 
