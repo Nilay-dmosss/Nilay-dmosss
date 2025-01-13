@@ -17,7 +17,8 @@ My main aim is to working in this area as a junior and show my abilities
 
 - **Languages:** Python, JavaScript, C++, Middleware, Java, SQL, CSS3
 - **Frameworks:** React, Node.js, Django
-- **Tools:** Git, Docker, VS Code 
+- **Tools:** Git, Docker, VS Code , Postman
+- **Database:**Mongo, SQL
 - **Progmmes:** PowerBi, Figma, Trello, Jira, Weka, Ardunio, Macros, Adobe Ilustrator
  
  ## Projects
