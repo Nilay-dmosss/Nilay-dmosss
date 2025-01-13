@@ -6,7 +6,7 @@
 ## About Me
 
 I am a passionate developer with experience in various technologies. I would like to learn and contribute to open-source projects. 
-My main aim is to working in this area and show my abilities
+My main aim is to working in this area as a junior and show my abilities
 
 - 🔭 I’m currently working on Web developing and data warehouse,science.
 - 🌱 I’m currently learning Python, C#, Javascript, Machine Learning,Middleware
