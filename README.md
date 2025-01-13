@@ -38,7 +38,5 @@ Here are a few projects I've worked on:
 
 - [LinkedIn](https://www.linkedin.com/in/nilay-demir%C3%B6z-b8143a17a/)
 - [Email]()
-
-- 😄 
-- ⚡ 
+- 
 -->
