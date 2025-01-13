@@ -20,6 +20,8 @@ My main aim is to working in this area as a junior and show my abilities
 - **Tools:** Git, Docker, VS Code , Postman
 - **Database:**Mongo, SQL
 - **Progmmes:** PowerBi, Figma, Trello, Jira, Weka, Ardunio, Macros, Adobe Ilustrator
+- **Technical features:** Technical Drawing, Linux basics, Machine industry terms(R&D), DHCP, TCP, IP, Networks, Server engines(Movements robot arms or engine basic movements),
+- Electricity terms(AI supported sound, move and light sensitive sensors)
  
  ## Projects
 
