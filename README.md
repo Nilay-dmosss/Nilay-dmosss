@@ -16,8 +16,8 @@ My main aim is to WORK in this area AS a JUNIOR related areas and show my abilit
 ## Skills
 
 - **Languages:** Python, JavaScript, C++, Middleware, Java, SQL, CSS3
-- **Frameworks:** React, Node.js, Django
-- **Tools:** Git, Docker, VS Code , Postman
+- **Frameworks:** React, Node.js
+- **Tools:** Git, VS Code , Postman
 - **Database:**Mongo, SQL
 - **Progmmes:** PowerBi, Figma, Trello, Jira, Weka, Ardunio, Macros, Adobe Ilustrator
 - **Technical features:** Technical Drawing, Linux basics, Machine industry terms(R&D), DHCP, TCP, IP, Networks, Server engines(Movements robot arms or engine basic movements),
